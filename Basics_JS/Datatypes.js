@@ -23,7 +23,7 @@ console.log(typeof number2);
 console.log(number2);    //o/p; NaN
 
 /*
-After conversion of all these into 'Number' this is the output
+After conversion of all these into 'Number' this is the output:
 
 "33" -> 33
 33abc -> NaN
@@ -33,7 +33,7 @@ true -> 1
 false -> 0
 undefined -> NaN
 
-After conversion of all these into 'Boolean' this is the output
+After conversion of all these into 'Boolean' this is the output:
 "Shivam" -> True
 "" -> false
 1 -> true
