@@ -7,7 +7,7 @@ console.log(name);
 {
     var name2 = "Shubham"
     name2 = "Raj"        //update allowed
-    var name2 = "Raju"       //redeclaration allowed
+    var name2 = "Raju"       //redeclaration is also allowed
     console.log(name2);
     
 }
