@@ -40,5 +40,3 @@ After conversion of all these into 'Boolean' this is the output
 0 -> false
 */
 
-let counter = 100
-console.log(counter)
